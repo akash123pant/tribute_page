@@ -1,0 +1,70 @@
+body{
+    background-color: bisque;
+    margin: 20%;
+    
+    
+    
+}
+#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px beige;
+    font-family: serif;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 50px;
+    
+}
+
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+
+
+}
+
+#tribute-data{
+    background-color: rgb(46, 139, 87, 0.25) ;
+    box-shadow:20px 20px 20px bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px 20px ;
+    margin: 11px ;
+    margin-top: 50px ;
+    
+    
+}
+
+
+h1.title{
+    font-size: 35px;
+    color: beige;
+    text-align: center;
+    text-shadow: black;
+
+}
+
+#link{
+    text-decoration: none;
+    color: black;
+}
+
+
+p{
+    font-size: 20px;
+    text-align: justify;
+    line-height: 25px ;
+
+
+}
+
+#tribute-a{
+    font-style: oblique;
+}
+
+ul{
+    text-align: justify;
+    line-height: 20px;
+}
